@@ -1,4 +1,4 @@
-Repo for my talk at Packet Hacking Village:
+Repo for my talk at **Packet Hacking Village** (https://www.wallofsheep.com/):
 
 Sandbox Creative Usage For Fun and Pro...Blems
 
