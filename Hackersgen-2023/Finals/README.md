@@ -4,7 +4,7 @@ Repo for the Hackersgen 2023 Finals challenge. Docs are in Italian.
 
 Content:
 
-- `VM` folder: executables (both Linux and Windows) for the Virtual Machine used in the challenge
+- `VM` folder: source of the VM used in the challenge. To be compiled
 
 ## Challenge Description (ITA)
 
