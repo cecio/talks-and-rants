@@ -1,6 +1,6 @@
 # Hackersgen 2023 - Qualifications
 
-Repo for the Hackersgen 2023 qualification challenges. Docs are in Italian.
+Repo for the Hackersgen 2023 Qualifications challenge. Docs are in Italian.
 
 Content:
 
